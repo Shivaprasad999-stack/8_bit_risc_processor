@@ -3,3 +3,4 @@ This project implements a custom 8-bit RISC processor designed using Verilog HDL
 The design includes a 4-register register file, 8-bit ALU, program memory (ROM), data memory (RAM), and a compact instruction set supporting arithmetic, logical, immediate, load/store, and jump instructions.
 
 The project focuses on RTL design, datapath implementation, instruction decoding, and CPU behavior verification through waveform simulation.
+<img width="1345" height="328" alt="image" src="https://github.com/user-attachments/assets/26a08c13-365d-4945-97e0-c68a194bd681" />
